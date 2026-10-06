@@ -2,12 +2,9 @@ fastapi
 uvicorn
 pydantic
 joblib
-pandas 
+pandas
 scikit-learn
-stramlit
-request
-plotely
-pandas 
-typing
-seaborn 
+streamlit
+requests
+plotly
 numpy
