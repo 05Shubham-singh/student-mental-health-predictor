@@ -11,7 +11,7 @@ st.set_page_config(
     layout="wide",
 )
 
-API_URL_DEFAULT = "http://127.0.0.1:8000/predict"
+API_URL_DEFAULT = "https://student-mental-health-predictor-wpn3.onrender.com/predict"
 
 COUNTRIES = [
     "India", "USA", "Canada", "Australia", "UK", "Germany", "Mexico",
